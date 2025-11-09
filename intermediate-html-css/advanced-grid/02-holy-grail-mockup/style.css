@@ -23,9 +23,6 @@
   grid-area: 1 / 1 / 2 / 3;
 }
 
-.menu {
-  grid-area: 2 / 2 / 3 / 3;
-}
 .menu ul,
 .menu li {
   font-size: 16px;
@@ -57,6 +54,7 @@
 
 .nav {
   background-color: #C50208;
+  grid-area: 2 / 2 / 3 / 3;
 }
 
 .nav ul li {
